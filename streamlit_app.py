@@ -1,5 +1,6 @@
 import streamlit as st
 st.title("Alejandra de la Torre")
+st.image("ale2.jpeg")
 st.subheader(
     "**Estudiante de Administración y Finanzas** en la Universidad Panamericana")
 st.divider ()
